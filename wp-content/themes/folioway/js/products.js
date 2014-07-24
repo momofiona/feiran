@@ -2,73 +2,73 @@ jQuery(function(){
 	//productlist
 	var s='<div id="ca-container" class="ca-container"><div class="ca-wrapper">';
 		s+='<div class="ca-item ca-item-0">\
-					<a href="Product.html" class="ca-img">\
+					<a href="product.html" class="ca-img">\
 					<img title="智能控制主机" src="wp-content/uploads/2012/product-1.jpg">\
 					</a>\
 					<div class="ca-t">智能控制主机</div>\
 			</div>';	
 		s+='<div class="ca-item ca-item-1">\
-					<a href="Product_1.html" class="ca-img">\
+					<a href="product_1.html" class="ca-img">\
 					<img title="智能灯光控制面板" src="wp-content/uploads/2012/product-2.jpg">\
 					</a>\
 					<div class="ca-t">智能灯光控制面板</div>\
 			</div>';
 		s+='<div class="ca-item ca-item-2">\
-					<a href="Product_2.html" class="ca-img">\
+					<a href="product_2.html" class="ca-img">\
 					<img title="智能电器控制器" src="wp-content/uploads/2012/product-3.jpg">\
 					</a>\
 					<div class="ca-t">智能电器控制器</div>\
 			</div>';
 		s+='<div class="ca-item ca-item-3">\
-					<a href="Product_3.html" class="ca-img">\
+					<a href="product_3.html" class="ca-img">\
 					<img title="智能电动窗帘" src="wp-content/uploads/2012/product-4.jpg">\
 					</a>\
 					<div class="ca-t">智能电动窗帘</div>\
 			</div>';
 		s+='<div class="ca-item ca-item-4">\
-					<a href="Product_4.html" class="ca-img">\
+					<a href="product_4.html" class="ca-img">\
 					<img title="智能控制软件" src="wp-content/uploads/2012/product-5.jpg">\
 					</a>\
 					<div class="ca-t">智能控制软件</div>\
 			</div>';
 		s+='<div class="ca-item ca-item-5">\
-					<a href="Product_5.html" class="ca-img">\
+					<a href="product_5.html" class="ca-img">\
 					<img title="智能背景音乐主机" src="wp-content/uploads/2012/product-6.jpg">\
 					</a>\
 					<div class="ca-t">智能背景音乐主机</div>\
 			</div>';
 		s+='<div class="ca-item ca-item-6">\
-					<a href="Product_5.html" class="ca-img">\
+					<a href="product_5.html" class="ca-img">\
 					<img title="智能背景音乐主机" src="wp-content/uploads/2012/product-6-2.jpg">\
 					</a>\
 					<div class="ca-t">智能背景音乐主机</div>\
 			</div>';
 		s+='<div class="ca-item ca-item-7">\
-					<a href="Product_6.html" class="ca-img">\
+					<a href="product_6.html" class="ca-img">\
 					<img title="智能影音共享主机" src="wp-content/uploads/2012/product-7.jpg">\
 					</a>\
 					<div class="ca-t">智能影音共享主机</div>\
 			</div>';
 		s+='<div class="ca-item ca-item-8">\
-					<a href="Product_6.html" class="ca-img">\
+					<a href="product_6.html" class="ca-img">\
 					<img title="智能影音共享主机" src="wp-content/uploads/2012/product-7-2.jpg">\
 					</a>\
 					<div class="ca-t">智能影音共享主机</div>\
 			</div>';
 		s+='<div class="ca-item ca-item-9">\
-					<a href="Product_7.html" class="ca-img">\
+					<a href="product_7.html" class="ca-img">\
 					<img title="绿色WOC无线网络覆盖" src="wp-content/uploads/2012/product-8.jpg">\
 					</a>\
 					<div class="ca-t">绿色WOC无线网络覆盖</div>\
 			</div>';
 		s+='<div class="ca-item ca-item-10">\
-					<a href="Product_7.html" class="ca-img">\
+					<a href="product_7.html" class="ca-img">\
 					<img title="绿色WOC无线网络覆盖" src="wp-content/uploads/2012/product-8-2.jpg">\
 					</a>\
 					<div class="ca-t">绿色WOC无线网络覆盖</div>\
 			</div>';
 		s+='<div class="ca-item ca-item-11">\
-					<a href="Product_8.html" class="ca-img">\
+					<a href="product_8.html" class="ca-img">\
 					<img title="趣味互动投影游戏" src="wp-content/uploads/2012/product-9-5.jpg">\
 					</a>\
 					<div class="ca-t">趣味互动投影游戏</div>\
